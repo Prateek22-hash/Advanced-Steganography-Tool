@@ -1,4 +1,5 @@
-Loaded: Rakshit profile pic.jpg
+Loaded: Prateek profile pic.jpg
 Saved encrypted image: D:/Python/project-aicte-25-main/encryptedImage.jpg
-Decrypted: Rakshit Patial
+Decrypted: Prateek Bajaj
+
 
